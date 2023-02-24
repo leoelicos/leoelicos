@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on my Coding Bootcamp assignments
-- 🌱 I’m currently learning Javascript
+- Building portfolio in Vercel
+- Interested in t3 stack
+- Interested in [React Libraries](https://www.robinwieruch.de/react-libraries/)
+- Reading [Design Pattersn]([https://www.robinwieruch.de/react-libraries](https://refactoring.guru/design-patterns/book))
+- Following [Front End Roadmap](https://roadmap.sh/frontend)
 - 📫 How to reach me: leoelicos@gmail.com
-- 😄 Pronouns: he/him/his
- 
